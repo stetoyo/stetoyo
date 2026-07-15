@@ -26,5 +26,6 @@ I am a Biomedical Engineering student passionate about the intersection of healt
 * [IELTS C1]
 
 ### 📂 Past Projects
+*   **Time-Series Forecasting & Synthetic Data Generation:** Designed a comparative machine learning pipeline in Python to predict stock market prices. Implemented and evaluated a baseline LSTM seq2seq model against advanced generative architectures, specifically TimeGAN and Conditional Normalizing Flows, to model complex temporal dynamics.
 *   **Portable Arduino Breathalyzer:** Engineered a portable alcohol tester utilizing an MQ-3 sensor and an Arduino microcontroller. The device features custom automated calibration routines and seamless digital display integration for real-time readouts.
 *   **Heart Signal Analysis & Peak Detection:** Developed a biomedical signal processing project focused on cardiovascular data, implementing peak detection algorithms to accurately analyze and extract vital metrics.
